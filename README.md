@@ -1,4 +1,4 @@
-## Hallo <> I'm Sundar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hey <--> there I'm Sundar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <> UI & UX DESIGNER <br>
 <> FRONT-END DEVELOPER <br>
 <> DIGITAL CONTENT CREATOR <br>
