@@ -1,5 +1,3 @@
-## Hello World<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lust&color=%2358F7E8&size=26&center=true&vCenter=true&lines=Hey+there+I'm++Sundar;UX+designer;Web+Developer;Digital+Content+Creater;Python+Developer)](https://git.io/typing-svg) <br>
 <> UI & UX DESIGNER <br>
 <> FRONT-END DEVELOPER <br>
 <> DIGITAL CONTENT CREATOR <br>
