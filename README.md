@@ -8,7 +8,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Sundara Kannappan</h1>
-<h3>Hey There, Nice to meet you! I am currently acting as an opensource contributor and freelancer. I'm an undergraduate computer science engineer, a web researcher and developer.</h3>
+<h3>Hey There, Nice to meet you! I am currently acting as an opensource contributor and freelancer. I'm an undergraduate computer science engineer, a web researcher, database designer and developer.</h3>
 
 - 📫 How to reach me **official_esskay@proton.me**
 
